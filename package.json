@@ -15,5 +15,9 @@
     "yzhang.markdown-all-in-one",
     "alefragnani.bookmarks",
     "esbenp.prettier-vscode"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GuanDD123/vscode_extension_pack_general"
+  }
 }
