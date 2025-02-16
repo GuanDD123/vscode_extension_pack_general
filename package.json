@@ -1,0 +1,19 @@
+{
+  "name": "extension-pack-general",
+  "displayName": "Extension Pack General",
+  "description": "通用扩展包",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "github.github-vscode-theme",
+    "streetsidesoftware.code-spell-checker",
+    "yzhang.markdown-all-in-one",
+    "alefragnani.bookmarks",
+    "esbenp.prettier-vscode"
+  ]
+}
