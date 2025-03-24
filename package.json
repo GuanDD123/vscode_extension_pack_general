@@ -17,8 +17,7 @@
     "shd101wyy.markdown-preview-enhanced",
     "alefragnani.bookmarks",
     "esbenp.prettier-vscode",
-    "sandcastle.vscode-open",
-    "zaaack.markdown-editor"
+    "sandcastle.vscode-open"
   ],
   "repository": {
     "type": "git",
