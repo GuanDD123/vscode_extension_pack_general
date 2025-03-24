@@ -16,9 +16,9 @@
         "yzhang.markdown-all-in-one",
         "shd101wyy.markdown-preview-enhanced",
         "yfzhao.ultra-math-preview",
-        "esbenp.prettier-vscode",
         "sandcastle.vscode-open",
-        "foam.foam-vscode"
+        "foam.foam-vscode",
+        "davidanson.vscode-markdownlint"
     ],
     "repository": {
         "type": "git",
