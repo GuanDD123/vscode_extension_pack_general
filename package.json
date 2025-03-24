@@ -1,26 +1,26 @@
 {
-  "publisher": "sika123456",
-  "name": "extension-pack-general",
-  "displayName": "Extension Pack General",
-  "description": "通用扩展包",
-  "version": "0.5.0",
-  "engines": {
-    "vscode": "^1.97.0"
-  },
-  "categories": [
-    "Extension Packs"
-  ],
-  "extensionPack": [
-    "github.github-vscode-theme",
-    "streetsidesoftware.code-spell-checker",
-    "yzhang.markdown-all-in-one",
-    "shd101wyy.markdown-preview-enhanced",
-    "yfzhao.ultra-math-preview",
-    "esbenp.prettier-vscode",
-    "sandcastle.vscode-open"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/GuanDD123/vscode_extension_pack_general"
-  }
+    "publisher": "sika123456",
+    "name": "extension-pack-general",
+    "displayName": "Extension Pack General",
+    "description": "通用扩展包",
+    "version": "0.5.0",
+    "engines": {
+        "vscode": "^1.97.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "github.github-vscode-theme",
+        "streetsidesoftware.code-spell-checker",
+        "yzhang.markdown-all-in-one",
+        "shd101wyy.markdown-preview-enhanced",
+        "yfzhao.ultra-math-preview",
+        "esbenp.prettier-vscode",
+        "sandcastle.vscode-open"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/GuanDD123/vscode_extension_pack_general"
+    }
 }
