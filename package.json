@@ -3,7 +3,7 @@
     "name": "extension-pack-general",
     "displayName": "Extension Pack General",
     "description": "通用扩展包",
-    "version": "0.11.0",
+    "version": "0.12.0",
     "engines": {
         "vscode": "^1.97.0"
     },
