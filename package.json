@@ -18,7 +18,8 @@
         "yfzhao.ultra-math-preview",
         "sandcastle.vscode-open",
         "foam.foam-vscode",
-        "davidanson.vscode-markdownlint"
+        "davidanson.vscode-markdownlint",
+        "huacnlee.autocorrect"
     ],
     "repository": {
         "type": "git",
