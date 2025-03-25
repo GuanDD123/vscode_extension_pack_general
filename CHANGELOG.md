@@ -28,3 +28,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
   - Version: 0.8.18
   - Publisher: Yiyi Wang
   - VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced
+- Name: Foam
+  - Id: foam.foam-vscode
+  - Description: VS Code + Markdown + Wikilinks for your note taking and knowledge base
+  - Version: 0.26.8
+  - Publisher: Foam
+  - VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=foam.foam-vscode
