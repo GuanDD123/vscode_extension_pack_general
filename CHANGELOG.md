@@ -16,10 +16,15 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
   - Version: 13.5.0
   - Publisher: Alessandro Fragnani
   - VS Marketplace Link: <https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks>
-
 - Name: Markdown Editor
   - Id: zaaack.markdown-editor
   - Description: A full-featured WYSIWYG editor for markdown.
   - Version: 0.1.13
   - Publisher: zaaack
   - VS Marketplace Link: <https://marketplace.visualstudio.com/items?itemName=zaaack.markdown-editor>
+- Name: Markdown Preview Enhanced
+  - Id: shd101wyy.markdown-preview-enhanced
+  - Description: Markdown Preview Enhanced ported to vscode
+  - Version: 0.8.18
+  - Publisher: Yiyi Wang
+  - VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced
