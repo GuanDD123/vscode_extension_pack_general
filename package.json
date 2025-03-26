@@ -17,8 +17,7 @@
         "yfzhao.ultra-math-preview",
         "sandcastle.vscode-open",
         "foam.foam-vscode",
-        "davidanson.vscode-markdownlint",
-        "xlthu.pangu-markdown"
+        "davidanson.vscode-markdownlint"
     ],
     "repository": {
         "type": "git",
