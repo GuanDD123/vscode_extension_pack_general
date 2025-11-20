@@ -1,0 +1,24 @@
+{
+    "publisher": "sika123456",
+    "name": "extension-pack-general",
+    "displayName": "Extension Pack General",
+    "description": "通用扩展包",
+    "version": "0.17.0",
+    "engines": {
+        "vscode": "^1.97.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "streetsidesoftware.code-spell-checker",
+        "yzhang.markdown-all-in-one",
+        "yfzhao.ultra-math-preview",
+        "sandcastle.vscode-open",
+        "davidanson.vscode-markdownlint"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/GuanDD123/vscode_extension_pack_general"
+    }
+}
